@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/mensal", {data:[{}],fetch:{},mutations:void 0});
